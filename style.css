@@ -9,5 +9,5 @@ body{
      background: red;
 }
 #container{
-    border: solid white;
+    border: solid white 3px;
 }
